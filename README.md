@@ -5,7 +5,7 @@
 :memo:스터디 일정 <br>
 **2018-04-20 금요일 첫 START!** <br>
 
-> - [우리 스터디 슬랙 주소(온라인 진행)](https://github.com/Munchurwoo/Angular_Study)
+> - [우리 스터디 슬랙 주소(온라인 진행)](https://angularstudy.slack.com/messages/DAC44UMRU/team/UAB79993L/)
 > - [슬랙 사용방법](https://docs.google.com/document/d/17MFfyCGXa6KbKnDtTm3H-c11QaP-20SVpvNZADzc7nY/edit)
 > - [멘토님 조언](https://github.com/Munchurwoo/Angular_Study/blob/master/Mentoring.md)
 
