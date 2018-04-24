@@ -8,7 +8,7 @@
 > - [우리 스터디 슬랙 주소(온라인 진행)](https://angularstudy.slack.com/messages/DAC44UMRU/team/UAB79993L/)
 > - [슬랙 사용방법](https://docs.google.com/document/d/17MFfyCGXa6KbKnDtTm3H-c11QaP-20SVpvNZADzc7nY/edit)
 > - [멘토님 조언](https://github.com/Munchurwoo/Angular_Study/blob/master/Mentoring.md)
-
+> - [공식 google 문서](https://docs.google.com/document/d/1Ij76WHNnT7RH9NhzUeZ6YPecU6zJ79qEjF-SGCMGa7A/edit)
 - 진도표 바로가기 ( 한 주에 챕터 최소 3개 나가기로 결정했습니다. web에 대한 전반지식이 있고 하루 3시간 이상 투자할 수 있다는 생각아래 아래진도표를 작성하게 됬습니다. 진행사항 참고해서 수정, 첨삭하도록 하겠습니다. 적극적인 피드백 부탁드립니다.)
   - [1주차](#1)
   - [2주차](#2)
