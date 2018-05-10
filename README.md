@@ -1,3 +1,4 @@
+<h3 id=11></h3>
 ### Angular 스터디입니다.
 >이곳은 Angular 스터디 일정과 프로젝트 계획, 기타 참고자료를 업로드하는 정거장 역할로 쓰일 예정입니다.
 
@@ -7,14 +8,15 @@
 > 1. [공식 google 문서](https://docs.google.com/document/d/1Ij76WHNnT7RH9NhzUeZ6YPecU6zJ79qEjF-SGCMGa7A/edit)
 > 2. [슬랙 사용방법](https://docs.google.com/document/d/17MFfyCGXa6KbKnDtTm3H-c11QaP-20SVpvNZADzc7nY/edit)
 > - [우리 스터디 슬랙 주소(온라인 진행)](https://angularstudy.slack.com/messages/DAC44UMRU/team/UAB79993L/)
-> - [멘토님 조언](https://github.com/Munchurwoo/Angular_Study/blob/master/Mentoring.md)
+
 
 - 진도표 바로가기 ( 한 주에 챕터 최소 3개 나가기로 결정했습니다. web에 대한 전반지식이 있고 하루 3시간 이상 투자할 수 있다는 생각아래 아래진도표를 작성하게 됬습니다. 진행사항 참고해서 수정, 첨삭하도록 하겠습니다. 적극적인 피드백 부탁드립니다.)
-  - [스터디책](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791188621019&orderClick=LAH&Kc=)
+  - [스터디 교재](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791188621019&orderClick=LAH&Kc=)
   - [1주차](#1)
   - [2주차](#2)
   - [3주차](#3)
   - [4주차](#4)
+  - [5주차](#5)
 ---
 
 <h3 id=1> 1주차 진도표(4/23 ~ 4/29) </h3>
@@ -38,7 +40,7 @@
     - 컴포넌트 입출력, 커스텀 이벤트 배출하기
     - NgModule 과 앱시동
     - 완성된 앱 배포
-<h3 id=2>2주차 진도표(4/30 ~ 5/6) </h3>
+<h3 id=2>2주차 진도표(4/30 ~ 5/9) </h3>
 
 
 - 4장 내장 지시자
@@ -54,8 +56,31 @@
   - 테스트하기
   - FormBuilder 로 만드는 리액티브 폼
   - 뷰에서 myForm 사용하기
-- 6 장
-<h3 id=3>3주차 진도표(5/4 ~ 5/11) </h3>
--
-<h3 id=4>4주차 진도표(5/12 ~ 5/18) </h3>
--
+- 6 장 의존성 주입
+  - 의존성 주입 요소들
+  - 인젝터 다루기
+  - NgModule 과 의존성
+  - 클래스, 팩토리 사용
+  - 앱의 의존성 주입
+<h3 id=3>3주차 진도표(5/10 ~ 5/16) </h3>
+
+- 7장 HTTP
+  - @angular/component/http 사용
+  - youTubeSearchComponent 작성
+  - http api Post 요청
+  - 맞춤형 http 헤더
+- 8장 라우팅
+- 9장 앵귤러 4 데이터 아키텍처
+<h3 id=4>4주차 진도표(5/17 ~ 5/23) </h3>
+
+- 10장 옵저버블 데이터 아키텍처 1부 - 서비스
+- 11장 옵저버블 데이터 아키텍처 2부 - 뷰 컴포넌트
+- 12장 리덕스 타입스크립트
+
+<h3 id=5>5주차 진도표(5/24 ~ 5/30) </h3>
+
+- 13장 중급자를 위한 앵귤러 리덕스
+- 14장 컴포넌트 고급
+- 15장 테스트하기  
+
+[맨위로 가기](#11)
